@@ -1,0 +1,36 @@
+GIYA SA BISAYA — UNSAON PAGPADAYON
+
+Bai, ako na ang naghimo sa unang website design ug starter files. Dili pa ni live nga website ug wala pa ni public link.
+
+UNANG HAKBANG: TAN-AWA ANG DESIGN
+1. I-download ug i-unzip ang ZIP file.
+2. Ablihi ang folder ug pindota ang index.html aron makita ang preview sa website.
+3. Ayaw sa pagbutang ug tinuod nga ngalan, cellphone, ID, affidavit, o kaso sa preview form.
+
+SUNOD NGA HAKBANG: IPALIVE ANG PUBLIC WEBSITE (FREE)
+Kinahanglan adunay account nga imo gyud kontrolado aron ikaw ang tag-iya sa website. Ang free hosting mahimong gamiton sa pag-publish sa public page. Dili nako mahimo ang account creation o pag-uyon sa terms para nimo, ug ayaw ihatag nako ang imong password o verification code.
+- Create/own a GitHub account if you choose to use GitHub Pages or a Git-based hosting flow.
+- Publish only the public website page first.
+- The free URL will be a hosting-provider address; a custom domain normally costs money.
+
+AYAW SA PAGGAMIT SA TINUOD NGA CLIENT DATA
+Kini nga version wala pay secure database, real staff login, private upload storage, appointment confirmation, email/SMS notifications, o live status tracking. Ang mga feature nga kana kinahanglan pa ikonektar ug sulayan.
+
+PARA SA SECURE CLIENT PORTAL
+Ang database schema sa supabase/schema.sql usa lamang ka starter. Dili pa kini igo nga production security setup. Kinahanglan pa:
+- verified staff accounts and role-based access;
+- server-side rules and strict Row Level Security;
+- private document storage and tested upload/download permissions;
+- secure notifications (walay sensitive details sa email/SMS);
+- backup, retention/deletion procedure, privacy notice, and incident plan;
+- attorney/privacy/security review before real use.
+
+PAG-ANDAM SA IMPORMASYON
+Ang office contact details nga naa sa page:
+VALLEJO LAW OFFICE
+Espiritu St., Brgy. Mangagoy, Bislig City
++63 939 550 8764
+vallejovistarlaw@outlook.com
+
+MUBO NGA PASIDAAN
+Ang free tier mahimong adunay limitasyon, inactivity pause, o pag-usab sa terms. Walay garantiya nga ang free service walay downtime.
