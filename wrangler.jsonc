@@ -1,0 +1,10 @@
+
+{
+  "name": "vallejolawoffice",
+  "compatibility_date": "2026-10-23",
+  "assets": {
+    "directory": "."
+  },
+  "preview_urls": true,
+  "previews": {}
+}
